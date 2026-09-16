@@ -1,0 +1,16 @@
+streamlit>=1.40.0
+python-dotenv
+bcrypt
+pdfkit
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-google-genai>=0.2.0 
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+PyPDF2
+google-generativeai>=0.8.0
+weasyprint
+openai-whisper
+pydantic>=2.0,<3.0  
